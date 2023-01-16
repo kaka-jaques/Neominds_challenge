@@ -5,6 +5,13 @@ import java.util.Scanner;
 import br.com.challenge.neomind.classes.AnguloRelogio;
 import br.com.challenge.neomind.object.Relogio;
 
+/**
+ * 
+ * @author Kalil J. Fakhouri
+ * @version 1.0
+ *
+ */
+
 public class Main {
 
 	//VARIAVEIS
