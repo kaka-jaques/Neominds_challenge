@@ -40,7 +40,12 @@
 
 ## <b>Como utilizar/testar o algoritmo:</b>
 
->###  clone o repositório utilizando o comando <i><b>'git clone https://github.com/kaka-jaques/Neominds_challenge.git'</i></b> e adicione o projeto em sua IDE, ou acesse o <a href="https://replit.com/@kaka-jaques/CalcRelogioAngulo" target="_blank">REPLIT</a>
+>###  Execute o projeto realizando as seguintes etapas:
+> - Clone o repositório com: <i><b>'git clone https://github.com/kaka-jaques/Neominds_challenge.git'</i></b> 
+> - Importe o projeto em sua IDE (de pereferência Eclipse).
+> - Necessário Java 17 ou superior.
+
+>## Ou, poderá testar o código acessando o projeto no <a href="https://replit.com/@kaka-jaques/CalcRelogioAngulo" target="_blank">REPLIT aqui!</a>
 
 #
 
